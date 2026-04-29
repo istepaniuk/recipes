@@ -4,9 +4,11 @@
 
 Tins: 30 cm x 10 cm x 8 cm
 
+![Loaf of bread](bread.jpeg)
+
 ## Ingredients:
 
-- 1300 g T65 flour, no additives
+- 1300 g T65 flour, no additives (11.8% protein content)
 - 910 ml Water at 30°C (70%)
 - 10 g instant yeast, e.g., "Bruggeman Instant" (0.77%)
 - 22 g Salt (1.7%)
@@ -34,8 +36,8 @@ Tins: 30 cm x 10 cm x 8 cm
 - 01:20 — Stretch and fold, set #3: Repeat one last time. Then leave alone,
   covered.
 
-- 01:50 — Bulk fermentation: Go for a 50% volume increase in comparison with the
-  starting mix.
+- 01:50 — Bulk fermentation: Go for a 30% volume increase in comparison with the
+  starting wet mix.
     - At 22°C room temperature, that's approximately 30 minutes after the last
       fold.
     - Go primarily by volume, not the clock.
@@ -45,8 +47,14 @@ Tins: 30 cm x 10 cm x 8 cm
       lightly wet surface.
     - Divide the dough in two equal parts.
     - Gently fold the dough once onto itself, like closing a book.
+  
+      ![Fold by the middle like closing a book](shape1.png)
+  
     - Once folded, 90° from the fold direction, make a roll towards you. This
       requires some patience as the dough will be slippery.
+     
+      ![Roll towards you](shape2.png)
+  
     - Flip each roll into a well-oiled tin, with the seam towards the bottom.
     - It might be better to use baking paper instead of oil. The loaves WILL 
       stick to the tins if they are not smooth and oiled.
@@ -62,7 +70,7 @@ Tins: 30 cm x 10 cm x 8 cm
 
 - 03:40 — Finish bake: Drop to 210°C and bake for 20 more minutes until deep
   golden brown.
-    - The internal temp of the loaf (suing a probe thermometer) should reach
+    - The internal temp of the loaf (using a probe thermometer) should reach
       96°C.
 
 - 04:00 — Cool down: Tip out of tins immediately.
