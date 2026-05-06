@@ -36,9 +36,9 @@ Tins: 30 cm x 10 cm x 8 cm
 - 01:20 — Stretch and fold, set #3: Repeat one last time. Then leave alone,
   covered.
 
-- 01:50 — Bulk fermentation: Go for a 30% volume increase in comparison with the
+- 01:50 — Bulk fermentation: Go for a 80% volume increase in comparison with the
   starting wet mix.
-    - At 22°C room temperature, that's approximately 30 minutes after the last
+    - At 22°C room temperature, that's approximately 45 minutes after the last
       fold.
     - Go primarily by volume, not the clock.
 
@@ -57,11 +57,12 @@ Tins: 30 cm x 10 cm x 8 cm
   
     - Flip each roll into a well-oiled tin, with the seam towards the bottom.
     - It might be better to use baking paper instead of oil. The loaves WILL 
-      stick to the tins if they are not smooth and oiled.
+      stick to the tins if they are not smooth and well oiled.
 
 - 02:25 — Final proof: At 22°C room temperature for approximately 1 h.
-    - Cover the tins with a plastic film or proofing cover.
+    - Cover the tins with a plastic film or use a proofing cover.
     - Wait until the dough reaches the rim of the tins.
+    - Half way through this final proofing is a good time to preheat the oven.
 
 - 03:25 — Load tins in a well-preheated oven at 230°C.
     - Immediately pour 100 ml of boiling water into the bottom tray of the oven
